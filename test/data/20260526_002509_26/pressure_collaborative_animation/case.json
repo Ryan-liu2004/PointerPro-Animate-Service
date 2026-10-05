@@ -1,0 +1,22 @@
+{
+  "run_id": "20260526_002509_26",
+  "case_name": "pressure_collaborative_animation",
+  "metadata": {
+    "kind": "pressure",
+    "pressure_function": "collaborative_func",
+    "threads": 40,
+    "effective_threads": 40,
+    "client_count": 50,
+    "rounds": 30,
+    "timeout": 5.0,
+    "memory_check": true
+  },
+  "implementations": [
+    "student",
+    "python"
+  ],
+  "timing_seconds": {
+    "student": 2.609621,
+    "python": 2.729236
+  }
+}

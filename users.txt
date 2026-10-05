@@ -1,0 +1,5 @@
+ExcitableFabricator 1
+UnwillingDeveloper 10
+lc 0
+JollyPainter -10
+lhc 65

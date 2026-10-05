@@ -1,0 +1,4301 @@
+798
+521
+207
+642
+67
+139
+129
+76
+674
+640
+313
+829
+941
+208
+856
+250
+656
+540
+248
+931
+897
+35
+803
+468
+664
+852
+186
+438
+600
+634
+407
+196
+721
+85
+191
+472
+196
+249
+303
+449
+296
+548
+663
+982
+727
+714
+616
+287
+332
+193
+0 <shared_canvas>
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 <sprite_0_0>
+0 <sprite_0_1>
+0 <sprite_0_2>
+0 <sprite_0_3>
+0 <sprite_0_4>
+0 <sprite_0_5>
+0 <sprite_0_6>
+0 <sprite_0_7>
+0 <sprite_0_8>
+0 <sprite_0_9>
+0 <placement_0_0>
+0
+0 <placement_0_1>
+0
+0 <placement_0_2>
+0
+0 <placement_0_3>
+0
+0 <placement_0_4>
+0
+0 <placement_0_5>
+0
+0 <placement_0_6>
+0
+0 <placement_0_7>
+0
+0 <placement_0_8>
+0
+0 <placement_0_9>
+0
+0 <placement_0_10>
+0
+0 <placement_0_11>
+0
+0 <placement_0_12>
+0
+0 <placement_0_13>
+0
+0 <placement_0_14>
+0
+0 <placement_0_15>
+0
+0 <placement_0_16>
+0
+0 <placement_0_17>
+0
+0 <placement_0_18>
+0
+0 <placement_0_19>
+0
+0 <sprite_1_0>
+0 <sprite_1_1>
+0 <sprite_1_2>
+0 <sprite_1_3>
+0 <sprite_1_4>
+0 <sprite_1_5>
+0 <sprite_1_6>
+0 <sprite_1_7>
+0 <sprite_1_8>
+0 <sprite_1_9>
+0 <placement_1_0>
+0
+0 <placement_1_1>
+0
+0 <placement_1_2>
+0
+0 <placement_1_3>
+0
+0 <placement_1_4>
+0
+0 <placement_1_5>
+0
+0 <placement_1_6>
+0
+0 <placement_1_7>
+0
+0 <placement_1_8>
+0
+0 <placement_1_9>
+0
+0 <placement_1_10>
+0
+0 <placement_1_11>
+0
+0 <placement_1_12>
+0
+0 <placement_1_13>
+0
+0 <placement_1_14>
+0
+0 <placement_1_15>
+0
+0 <placement_1_16>
+0
+0 <placement_1_17>
+0
+0 <placement_1_18>
+0
+0 <placement_1_19>
+0
+0 <sprite_2_0>
+0 <sprite_2_1>
+0 <sprite_2_2>
+0 <sprite_2_3>
+0 <sprite_2_4>
+0 <sprite_2_5>
+0 <sprite_2_6>
+0 <sprite_2_7>
+0 <sprite_2_8>
+0 <sprite_2_9>
+0 <placement_2_0>
+0
+0 <placement_2_1>
+0
+0 <placement_2_2>
+0
+0 <placement_2_3>
+0
+0 <placement_2_4>
+0
+0 <placement_2_5>
+0
+0 <placement_2_6>
+0
+0 <placement_2_7>
+0
+0 <placement_2_8>
+0
+0 <placement_2_9>
+0
+0 <placement_2_10>
+0
+0 <placement_2_11>
+0
+0 <placement_2_12>
+0
+0 <placement_2_13>
+0
+0 <placement_2_14>
+0
+0 <placement_2_15>
+0
+0 <placement_2_16>
+0
+0 <placement_2_17>
+0
+0 <placement_2_18>
+0
+0 <placement_2_19>
+0
+0 <sprite_3_0>
+0 <sprite_3_1>
+0 <sprite_3_2>
+0 <sprite_3_3>
+0 <sprite_3_4>
+0 <sprite_3_5>
+0 <sprite_3_6>
+0 <sprite_3_7>
+0 <sprite_3_8>
+0 <sprite_3_9>
+0 <placement_3_0>
+0
+0 <placement_3_1>
+0
+0 <placement_3_2>
+0
+0 <placement_3_3>
+0
+0 <placement_3_4>
+0
+0 <placement_3_5>
+0
+0 <placement_3_6>
+0
+0 <placement_3_7>
+0
+0 <placement_3_8>
+0
+0 <placement_3_9>
+0
+0 <placement_3_10>
+0
+0 <placement_3_11>
+0
+0 <placement_3_12>
+0
+0 <placement_3_13>
+0
+0 <placement_3_14>
+0
+0 <placement_3_15>
+0
+0 <placement_3_16>
+0
+0 <placement_3_17>
+0
+0 <placement_3_18>
+0
+0 <placement_3_19>
+0
+0 <sprite_4_0>
+0 <sprite_4_1>
+0 <sprite_4_2>
+0 <sprite_4_3>
+0 <sprite_4_4>
+0 <sprite_4_5>
+0 <sprite_4_6>
+0 <sprite_4_7>
+0 <sprite_4_8>
+0 <sprite_4_9>
+0 <placement_4_0>
+0
+0 <placement_4_1>
+0
+0 <placement_4_2>
+0
+0 <placement_4_3>
+0
+0 <placement_4_4>
+0
+0 <placement_4_5>
+0
+0 <placement_4_6>
+0
+0 <placement_4_7>
+0
+0 <placement_4_8>
+0
+0 <placement_4_9>
+0
+0 <placement_4_10>
+0
+0 <placement_4_11>
+0
+0 <placement_4_12>
+0
+0 <placement_4_13>
+0
+0 <placement_4_14>
+0
+0 <placement_4_15>
+0
+0 <placement_4_16>
+0
+0 <placement_4_17>
+0
+0 <placement_4_18>
+0
+0 <placement_4_19>
+0
+0 <sprite_5_0>
+0 <sprite_5_1>
+0 <sprite_5_2>
+0 <sprite_5_3>
+0 <sprite_5_4>
+0 <sprite_5_5>
+0 <sprite_5_6>
+0 <sprite_5_7>
+0 <sprite_5_8>
+0 <sprite_5_9>
+0 <placement_5_0>
+0
+0 <placement_5_1>
+0
+0 <placement_5_2>
+0
+0 <placement_5_3>
+0
+0 <placement_5_4>
+0
+0 <placement_5_5>
+0
+0 <placement_5_6>
+0
+0 <placement_5_7>
+0
+0 <placement_5_8>
+0
+0 <placement_5_9>
+0
+0 <placement_5_10>
+0
+0 <placement_5_11>
+0
+0 <placement_5_12>
+0
+0 <placement_5_13>
+0
+0 <placement_5_14>
+0
+0 <placement_5_15>
+0
+0 <placement_5_16>
+0
+0 <placement_5_17>
+0
+0 <placement_5_18>
+0
+0 <placement_5_19>
+0
+0 <sprite_6_0>
+0 <sprite_6_1>
+0 <sprite_6_2>
+0 <sprite_6_3>
+0 <sprite_6_4>
+0 <sprite_6_5>
+0 <sprite_6_6>
+0 <sprite_6_7>
+0 <sprite_6_8>
+0 <sprite_6_9>
+0 <placement_6_0>
+0
+0 <placement_6_1>
+0
+0 <placement_6_2>
+0
+0 <placement_6_3>
+0
+0 <placement_6_4>
+0
+0 <placement_6_5>
+0
+0 <placement_6_6>
+0
+0 <placement_6_7>
+0
+0 <placement_6_8>
+0
+0 <placement_6_9>
+0
+0 <placement_6_10>
+0
+0 <placement_6_11>
+0
+0 <placement_6_12>
+0
+0 <placement_6_13>
+0
+0 <placement_6_14>
+0
+0 <placement_6_15>
+0
+0 <placement_6_16>
+0
+0 <placement_6_17>
+0
+0 <placement_6_18>
+0
+0 <placement_6_19>
+0
+0 <sprite_7_0>
+0 <sprite_7_1>
+0 <sprite_7_2>
+0 <sprite_7_3>
+0 <sprite_7_4>
+0 <sprite_7_5>
+0 <sprite_7_6>
+0 <sprite_7_7>
+0 <sprite_7_8>
+0 <sprite_7_9>
+0 <placement_7_0>
+0
+0 <placement_7_1>
+0
+0 <placement_7_2>
+0
+0 <placement_7_3>
+0
+0 <placement_7_4>
+0
+0 <placement_7_5>
+0
+0 <placement_7_6>
+0
+0 <placement_7_7>
+0
+0 <placement_7_8>
+0
+0 <placement_7_9>
+0
+0 <placement_7_10>
+0
+0 <placement_7_11>
+0
+0 <placement_7_12>
+0
+0 <placement_7_13>
+0
+0 <placement_7_14>
+0
+0 <placement_7_15>
+0
+0 <placement_7_16>
+0
+0 <placement_7_17>
+0
+0 <placement_7_18>
+0
+0 <placement_7_19>
+0
+0 <sprite_8_0>
+0 <sprite_8_1>
+0 <sprite_8_2>
+0 <sprite_8_3>
+0 <sprite_8_4>
+0 <sprite_8_5>
+0 <sprite_8_6>
+0 <sprite_8_7>
+0 <sprite_8_8>
+0 <sprite_8_9>
+0 <placement_8_0>
+0
+0 <placement_8_1>
+0
+0 <placement_8_2>
+0
+0 <placement_8_3>
+0
+0 <placement_8_4>
+0
+0 <placement_8_5>
+0
+0 <placement_8_6>
+0
+0 <placement_8_7>
+0
+0 <placement_8_8>
+0
+0 <placement_8_9>
+0
+0 <placement_8_10>
+0
+0 <placement_8_11>
+0
+0 <placement_8_12>
+0
+0 <placement_8_13>
+0
+0 <placement_8_14>
+0
+0 <placement_8_15>
+0
+0 <placement_8_16>
+0
+0 <placement_8_17>
+0
+0 <placement_8_18>
+0
+0 <placement_8_19>
+0
+0 <sprite_9_0>
+0 <sprite_9_1>
+0 <sprite_9_2>
+0 <sprite_9_3>
+0 <sprite_9_4>
+0 <sprite_9_5>
+0 <sprite_9_6>
+0 <sprite_9_7>
+0 <sprite_9_8>
+0 <sprite_9_9>
+0 <placement_9_0>
+0
+0 <placement_9_1>
+0
+0 <placement_9_2>
+0
+0 <placement_9_3>
+0
+0 <placement_9_4>
+0
+0 <placement_9_5>
+0
+0 <placement_9_6>
+0
+0 <placement_9_7>
+0
+0 <placement_9_8>
+0
+0 <placement_9_9>
+0
+0 <placement_9_10>
+0
+0 <placement_9_11>
+0
+0 <placement_9_12>
+0
+0 <placement_9_13>
+0
+0 <placement_9_14>
+0
+0 <placement_9_15>
+0
+0 <placement_9_16>
+0
+0 <placement_9_17>
+0
+0 <placement_9_18>
+0
+0 <placement_9_19>
+0
+0 <sprite_10_0>
+0 <sprite_10_1>
+0 <sprite_10_2>
+0 <sprite_10_3>
+0 <sprite_10_4>
+0 <sprite_10_5>
+0 <sprite_10_6>
+0 <sprite_10_7>
+0 <sprite_10_8>
+0 <sprite_10_9>
+0 <placement_10_0>
+0
+0 <placement_10_1>
+0
+0 <placement_10_2>
+0
+0 <placement_10_3>
+0
+0 <placement_10_4>
+0
+0 <placement_10_5>
+0
+0 <placement_10_6>
+0
+0 <placement_10_7>
+0
+0 <placement_10_8>
+0
+0 <placement_10_9>
+0
+0 <placement_10_10>
+0
+0 <placement_10_11>
+0
+0 <placement_10_12>
+0
+0 <placement_10_13>
+0
+0 <placement_10_14>
+0
+0 <placement_10_15>
+0
+0 <placement_10_16>
+0
+0 <placement_10_17>
+0
+0 <placement_10_18>
+0
+0 <placement_10_19>
+0
+0 <sprite_11_0>
+0 <sprite_11_1>
+0 <sprite_11_2>
+0 <sprite_11_3>
+0 <sprite_11_4>
+0 <sprite_11_5>
+0 <sprite_11_6>
+0 <sprite_11_7>
+0 <sprite_11_8>
+0 <sprite_11_9>
+0 <placement_11_0>
+0
+0 <placement_11_1>
+0
+0 <placement_11_2>
+0
+0 <placement_11_3>
+0
+0 <placement_11_4>
+0
+0 <placement_11_5>
+0
+0 <placement_11_6>
+0
+0 <placement_11_7>
+0
+0 <placement_11_8>
+0
+0 <placement_11_9>
+0
+0 <placement_11_10>
+0
+0 <placement_11_11>
+0
+0 <placement_11_12>
+0
+0 <placement_11_13>
+0
+0 <placement_11_14>
+0
+0 <placement_11_15>
+0
+0 <placement_11_16>
+0
+0 <placement_11_17>
+0
+0 <placement_11_18>
+0
+0 <placement_11_19>
+0
+0 <sprite_12_0>
+0 <sprite_12_1>
+0 <sprite_12_2>
+0 <sprite_12_3>
+0 <sprite_12_4>
+0 <sprite_12_5>
+0 <sprite_12_6>
+0 <sprite_12_7>
+0 <sprite_12_8>
+0 <sprite_12_9>
+0 <placement_12_0>
+0
+0 <placement_12_1>
+0
+0 <placement_12_2>
+0
+0 <placement_12_3>
+0
+0 <placement_12_4>
+0
+0 <placement_12_5>
+0
+0 <placement_12_6>
+0
+0 <placement_12_7>
+0
+0 <placement_12_8>
+0
+0 <placement_12_9>
+0
+0 <placement_12_10>
+0
+0 <placement_12_11>
+0
+0 <placement_12_12>
+0
+0 <placement_12_13>
+0
+0 <placement_12_14>
+0
+0 <placement_12_15>
+0
+0 <placement_12_16>
+0
+0 <placement_12_17>
+0
+0 <placement_12_18>
+0
+0 <placement_12_19>
+0
+0 <sprite_13_0>
+0 <sprite_13_1>
+0 <sprite_13_2>
+0 <sprite_13_3>
+0 <sprite_13_4>
+0 <sprite_13_5>
+0 <sprite_13_6>
+0 <sprite_13_7>
+0 <sprite_13_8>
+0 <sprite_13_9>
+0 <placement_13_0>
+0
+0 <placement_13_1>
+0
+0 <placement_13_2>
+0
+0 <placement_13_3>
+0
+0 <placement_13_4>
+0
+0 <placement_13_5>
+0
+0 <placement_13_6>
+0
+0 <placement_13_7>
+0
+0 <placement_13_8>
+0
+0 <placement_13_9>
+0
+0 <placement_13_10>
+0
+0 <placement_13_11>
+0
+0 <placement_13_12>
+0
+0 <placement_13_13>
+0
+0 <placement_13_14>
+0
+0 <placement_13_15>
+0
+0 <placement_13_16>
+0
+0 <placement_13_17>
+0
+0 <placement_13_18>
+0
+0 <placement_13_19>
+0
+0 <sprite_14_0>
+0 <sprite_14_1>
+0 <sprite_14_2>
+0 <sprite_14_3>
+0 <sprite_14_4>
+0 <sprite_14_5>
+0 <sprite_14_6>
+0 <sprite_14_7>
+0 <sprite_14_8>
+0 <sprite_14_9>
+0 <placement_14_0>
+0
+0 <placement_14_1>
+0
+0 <placement_14_2>
+0
+0 <placement_14_3>
+0
+0 <placement_14_4>
+0
+0 <placement_14_5>
+0
+0 <placement_14_6>
+0
+0 <placement_14_7>
+0
+0 <placement_14_8>
+0
+0 <placement_14_9>
+0
+0 <placement_14_10>
+0
+0 <placement_14_11>
+0
+0 <placement_14_12>
+0
+0 <placement_14_13>
+0
+0 <placement_14_14>
+0
+0 <placement_14_15>
+0
+0 <placement_14_16>
+0
+0 <placement_14_17>
+0
+0 <placement_14_18>
+0
+0 <placement_14_19>
+0
+0 <sprite_15_0>
+0 <sprite_15_1>
+0 <sprite_15_2>
+0 <sprite_15_3>
+0 <sprite_15_4>
+0 <sprite_15_5>
+0 <sprite_15_6>
+0 <sprite_15_7>
+0 <sprite_15_8>
+0 <sprite_15_9>
+0 <placement_15_0>
+0
+0 <placement_15_1>
+0
+0 <placement_15_2>
+0
+0 <placement_15_3>
+0
+0 <placement_15_4>
+0
+0 <placement_15_5>
+0
+0 <placement_15_6>
+0
+0 <placement_15_7>
+0
+0 <placement_15_8>
+0
+0 <placement_15_9>
+0
+0 <placement_15_10>
+0
+0 <placement_15_11>
+0
+0 <placement_15_12>
+0
+0 <placement_15_13>
+0
+0 <placement_15_14>
+0
+0 <placement_15_15>
+0
+0 <placement_15_16>
+0
+0 <placement_15_17>
+0
+0 <placement_15_18>
+0
+0 <placement_15_19>
+0
+0 <sprite_16_0>
+0 <sprite_16_1>
+0 <sprite_16_2>
+0 <sprite_16_3>
+0 <sprite_16_4>
+0 <sprite_16_5>
+0 <sprite_16_6>
+0 <sprite_16_7>
+0 <sprite_16_8>
+0 <sprite_16_9>
+0 <placement_16_0>
+0
+0 <placement_16_1>
+0
+0 <placement_16_2>
+0
+0 <placement_16_3>
+0
+0 <placement_16_4>
+0
+0 <placement_16_5>
+0
+0 <placement_16_6>
+0
+0 <placement_16_7>
+0
+0 <placement_16_8>
+0
+0 <placement_16_9>
+0
+0 <placement_16_10>
+0
+0 <placement_16_11>
+0
+0 <placement_16_12>
+0
+0 <placement_16_13>
+0
+0 <placement_16_14>
+0
+0 <placement_16_15>
+0
+0 <placement_16_16>
+0
+0 <placement_16_17>
+0
+0 <placement_16_18>
+0
+0 <placement_16_19>
+0
+0 <sprite_17_0>
+0 <sprite_17_1>
+0 <sprite_17_2>
+0 <sprite_17_3>
+0 <sprite_17_4>
+0 <sprite_17_5>
+0 <sprite_17_6>
+0 <sprite_17_7>
+0 <sprite_17_8>
+0 <sprite_17_9>
+0 <placement_17_0>
+0
+0 <placement_17_1>
+0
+0 <placement_17_2>
+0
+0 <placement_17_3>
+0
+0 <placement_17_4>
+0
+0 <placement_17_5>
+0
+0 <placement_17_6>
+0
+0 <placement_17_7>
+0
+0 <placement_17_8>
+0
+0 <placement_17_9>
+0
+0 <placement_17_10>
+0
+0 <placement_17_11>
+0
+0 <placement_17_12>
+0
+0 <placement_17_13>
+0
+0 <placement_17_14>
+0
+0 <placement_17_15>
+0
+0 <placement_17_16>
+0
+0 <placement_17_17>
+0
+0 <placement_17_18>
+0
+0 <placement_17_19>
+0
+0 <sprite_18_0>
+0 <sprite_18_1>
+0 <sprite_18_2>
+0 <sprite_18_3>
+0 <sprite_18_4>
+0 <sprite_18_5>
+0 <sprite_18_6>
+0 <sprite_18_7>
+0 <sprite_18_8>
+0 <sprite_18_9>
+0 <placement_18_0>
+0
+0 <placement_18_1>
+0
+0 <placement_18_2>
+0
+0 <placement_18_3>
+0
+0 <placement_18_4>
+0
+0 <placement_18_5>
+0
+0 <placement_18_6>
+0
+0 <placement_18_7>
+0
+0 <placement_18_8>
+0
+0 <placement_18_9>
+0
+0 <placement_18_10>
+0
+0 <placement_18_11>
+0
+0 <placement_18_12>
+0
+0 <placement_18_13>
+0
+0 <placement_18_14>
+0
+0 <placement_18_15>
+0
+0 <placement_18_16>
+0
+0 <placement_18_17>
+0
+0 <placement_18_18>
+0
+0 <placement_18_19>
+0
+0 <sprite_19_0>
+0 <sprite_19_1>
+0 <sprite_19_2>
+0 <sprite_19_3>
+0 <sprite_19_4>
+0 <sprite_19_5>
+0 <sprite_19_6>
+0 <sprite_19_7>
+0 <sprite_19_8>
+0 <sprite_19_9>
+0 <placement_19_0>
+0
+0 <placement_19_1>
+0
+0 <placement_19_2>
+0
+0 <placement_19_3>
+0
+0 <placement_19_4>
+0
+0 <placement_19_5>
+0
+0 <placement_19_6>
+0
+0 <placement_19_7>
+0
+0 <placement_19_8>
+0
+0 <placement_19_9>
+0
+0 <placement_19_10>
+0
+0 <placement_19_11>
+0
+0 <placement_19_12>
+0
+0 <placement_19_13>
+0
+0 <placement_19_14>
+0
+0 <placement_19_15>
+0
+0 <placement_19_16>
+0
+0 <placement_19_17>
+0
+0 <placement_19_18>
+0
+0 <placement_19_19>
+0
+0 <sprite_20_0>
+0 <sprite_20_1>
+0 <sprite_20_2>
+0 <sprite_20_3>
+0 <sprite_20_4>
+0 <sprite_20_5>
+0 <sprite_20_6>
+0 <sprite_20_7>
+0 <sprite_20_8>
+0 <sprite_20_9>
+0 <placement_20_0>
+0
+0 <placement_20_1>
+0
+0 <placement_20_2>
+0
+0 <placement_20_3>
+0
+0 <placement_20_4>
+0
+0 <placement_20_5>
+0
+0 <placement_20_6>
+0
+0 <placement_20_7>
+0
+0 <placement_20_8>
+0
+0 <placement_20_9>
+0
+0 <placement_20_10>
+0
+0 <placement_20_11>
+0
+0 <placement_20_12>
+0
+0 <placement_20_13>
+0
+0 <placement_20_14>
+0
+0 <placement_20_15>
+0
+0 <placement_20_16>
+0
+0 <placement_20_17>
+0
+0 <placement_20_18>
+0
+0 <placement_20_19>
+0
+0 <sprite_21_0>
+0 <sprite_21_1>
+0 <sprite_21_2>
+0 <sprite_21_3>
+0 <sprite_21_4>
+0 <sprite_21_5>
+0 <sprite_21_6>
+0 <sprite_21_7>
+0 <sprite_21_8>
+0 <sprite_21_9>
+0 <placement_21_0>
+0
+0 <placement_21_1>
+0
+0 <placement_21_2>
+0
+0 <placement_21_3>
+0
+0 <placement_21_4>
+0
+0 <placement_21_5>
+0
+0 <placement_21_6>
+0
+0 <placement_21_7>
+0
+0 <placement_21_8>
+0
+0 <placement_21_9>
+0
+0 <placement_21_10>
+0
+0 <placement_21_11>
+0
+0 <placement_21_12>
+0
+0 <placement_21_13>
+0
+0 <placement_21_14>
+0
+0 <placement_21_15>
+0
+0 <placement_21_16>
+0
+0 <placement_21_17>
+0
+0 <placement_21_18>
+0
+0 <placement_21_19>
+0
+0 <sprite_22_0>
+0 <sprite_22_1>
+0 <sprite_22_2>
+0 <sprite_22_3>
+0 <sprite_22_4>
+0 <sprite_22_5>
+0 <sprite_22_6>
+0 <sprite_22_7>
+0 <sprite_22_8>
+0 <sprite_22_9>
+0 <placement_22_0>
+0
+0 <placement_22_1>
+0
+0 <placement_22_2>
+0
+0 <placement_22_3>
+0
+0 <placement_22_4>
+0
+0 <placement_22_5>
+0
+0 <placement_22_6>
+0
+0 <placement_22_7>
+0
+0 <placement_22_8>
+0
+0 <placement_22_9>
+0
+0 <placement_22_10>
+0
+0 <placement_22_11>
+0
+0 <placement_22_12>
+0
+0 <placement_22_13>
+0
+0 <placement_22_14>
+0
+0 <placement_22_15>
+0
+0 <placement_22_16>
+0
+0 <placement_22_17>
+0
+0 <placement_22_18>
+0
+0 <placement_22_19>
+0
+0 <sprite_23_0>
+0 <sprite_23_1>
+0 <sprite_23_2>
+0 <sprite_23_3>
+0 <sprite_23_4>
+0 <sprite_23_5>
+0 <sprite_23_6>
+0 <sprite_23_7>
+0 <sprite_23_8>
+0 <sprite_23_9>
+0 <placement_23_0>
+0
+0 <placement_23_1>
+0
+0 <placement_23_2>
+0
+0 <placement_23_3>
+0
+0 <placement_23_4>
+0
+0 <placement_23_5>
+0
+0 <placement_23_6>
+0
+0 <placement_23_7>
+0
+0 <placement_23_8>
+0
+0 <placement_23_9>
+0
+0 <placement_23_10>
+0
+0 <placement_23_11>
+0
+0 <placement_23_12>
+0
+0 <placement_23_13>
+0
+0 <placement_23_14>
+0
+0 <placement_23_15>
+0
+0 <placement_23_16>
+0
+0 <placement_23_17>
+0
+0 <placement_23_18>
+0
+0 <placement_23_19>
+0
+0 <sprite_24_0>
+0 <sprite_24_1>
+0 <sprite_24_2>
+0 <sprite_24_3>
+0 <sprite_24_4>
+0 <sprite_24_5>
+0 <sprite_24_6>
+0 <sprite_24_7>
+0 <sprite_24_8>
+0 <sprite_24_9>
+0 <placement_24_0>
+0
+0 <placement_24_1>
+0
+0 <placement_24_2>
+0
+0 <placement_24_3>
+0
+0 <placement_24_4>
+0
+0 <placement_24_5>
+0
+0 <placement_24_6>
+0
+0 <placement_24_7>
+0
+0 <placement_24_8>
+0
+0 <placement_24_9>
+0
+0 <placement_24_10>
+0
+0 <placement_24_11>
+0
+0 <placement_24_12>
+0
+0 <placement_24_13>
+0
+0 <placement_24_14>
+0
+0 <placement_24_15>
+0
+0 <placement_24_16>
+0
+0 <placement_24_17>
+0
+0 <placement_24_18>
+0
+0 <placement_24_19>
+0
+0 <sprite_25_0>
+0 <sprite_25_1>
+0 <sprite_25_2>
+0 <sprite_25_3>
+0 <sprite_25_4>
+0 <sprite_25_5>
+0 <sprite_25_6>
+0 <sprite_25_7>
+0 <sprite_25_8>
+0 <sprite_25_9>
+0 <placement_25_0>
+0
+0 <placement_25_1>
+0
+0 <placement_25_2>
+0
+0 <placement_25_3>
+0
+0 <placement_25_4>
+0
+0 <placement_25_5>
+0
+0 <placement_25_6>
+0
+0 <placement_25_7>
+0
+0 <placement_25_8>
+0
+0 <placement_25_9>
+0
+0 <placement_25_10>
+0
+0 <placement_25_11>
+0
+0 <placement_25_12>
+0
+0 <placement_25_13>
+0
+0 <placement_25_14>
+0
+0 <placement_25_15>
+0
+0 <placement_25_16>
+0
+0 <placement_25_17>
+0
+0 <placement_25_18>
+0
+0 <placement_25_19>
+0
+0 <sprite_26_0>
+0 <sprite_26_1>
+0 <sprite_26_2>
+0 <sprite_26_3>
+0 <sprite_26_4>
+0 <sprite_26_5>
+0 <sprite_26_6>
+0 <sprite_26_7>
+0 <sprite_26_8>
+0 <sprite_26_9>
+0 <placement_26_0>
+0
+0 <placement_26_1>
+0
+0 <placement_26_2>
+0
+0 <placement_26_3>
+0
+0 <placement_26_4>
+0
+0 <placement_26_5>
+0
+0 <placement_26_6>
+0
+0 <placement_26_7>
+0
+0 <placement_26_8>
+0
+0 <placement_26_9>
+0
+0 <placement_26_10>
+0
+0 <placement_26_11>
+0
+0 <placement_26_12>
+0
+0 <placement_26_13>
+0
+0 <placement_26_14>
+0
+0 <placement_26_15>
+0
+0 <placement_26_16>
+0
+0 <placement_26_17>
+0
+0 <placement_26_18>
+0
+0 <placement_26_19>
+0
+0 <sprite_27_0>
+0 <sprite_27_1>
+0 <sprite_27_2>
+0 <sprite_27_3>
+0 <sprite_27_4>
+0 <sprite_27_5>
+0 <sprite_27_6>
+0 <sprite_27_7>
+0 <sprite_27_8>
+0 <sprite_27_9>
+0 <placement_27_0>
+0
+0 <placement_27_1>
+0
+0 <placement_27_2>
+0
+0 <placement_27_3>
+0
+0 <placement_27_4>
+0
+0 <placement_27_5>
+0
+0 <placement_27_6>
+0
+0 <placement_27_7>
+0
+0 <placement_27_8>
+0
+0 <placement_27_9>
+0
+0 <placement_27_10>
+0
+0 <placement_27_11>
+0
+0 <placement_27_12>
+0
+0 <placement_27_13>
+0
+0 <placement_27_14>
+0
+0 <placement_27_15>
+0
+0 <placement_27_16>
+0
+0 <placement_27_17>
+0
+0 <placement_27_18>
+0
+0 <placement_27_19>
+0
+0 <sprite_28_0>
+0 <sprite_28_1>
+0 <sprite_28_2>
+0 <sprite_28_3>
+0 <sprite_28_4>
+0 <sprite_28_5>
+0 <sprite_28_6>
+0 <sprite_28_7>
+0 <sprite_28_8>
+0 <sprite_28_9>
+0 <placement_28_0>
+0
+0 <placement_28_1>
+0
+0 <placement_28_2>
+0
+0 <placement_28_3>
+0
+0 <placement_28_4>
+0
+0 <placement_28_5>
+0
+0 <placement_28_6>
+0
+0 <placement_28_7>
+0
+0 <placement_28_8>
+0
+0 <placement_28_9>
+0
+0 <placement_28_10>
+0
+0 <placement_28_11>
+0
+0 <placement_28_12>
+0
+0 <placement_28_13>
+0
+0 <placement_28_14>
+0
+0 <placement_28_15>
+0
+0 <placement_28_16>
+0
+0 <placement_28_17>
+0
+0 <placement_28_18>
+0
+0 <placement_28_19>
+0
+0 <sprite_29_0>
+0 <sprite_29_1>
+0 <sprite_29_2>
+0 <sprite_29_3>
+0 <sprite_29_4>
+0 <sprite_29_5>
+0 <sprite_29_6>
+0 <sprite_29_7>
+0 <sprite_29_8>
+0 <sprite_29_9>
+0 <placement_29_0>
+0
+0 <placement_29_1>
+0
+0 <placement_29_2>
+0
+0 <placement_29_3>
+0
+0 <placement_29_4>
+0
+0 <placement_29_5>
+0
+0 <placement_29_6>
+0
+0 <placement_29_7>
+0
+0 <placement_29_8>
+0
+0 <placement_29_9>
+0
+0 <placement_29_10>
+0
+0 <placement_29_11>
+0
+0 <placement_29_12>
+0
+0 <placement_29_13>
+0
+0 <placement_29_14>
+0
+0 <placement_29_15>
+0
+0 <placement_29_16>
+0
+0 <placement_29_17>
+0
+0 <placement_29_18>
+0
+0 <placement_29_19>
+0
+0 <sprite_30_0>
+0 <sprite_30_1>
+0 <sprite_30_2>
+0 <sprite_30_3>
+0 <sprite_30_4>
+0 <sprite_30_5>
+0 <sprite_30_6>
+0 <sprite_30_7>
+0 <sprite_30_8>
+0 <sprite_30_9>
+0 <placement_30_0>
+0
+0 <placement_30_1>
+0
+0 <placement_30_2>
+0
+0 <placement_30_3>
+0
+0 <placement_30_4>
+0
+0 <placement_30_5>
+0
+0 <placement_30_6>
+0
+0 <placement_30_7>
+0
+0 <placement_30_8>
+0
+0 <placement_30_9>
+0
+0 <placement_30_10>
+0
+0 <placement_30_11>
+0
+0 <placement_30_12>
+0
+0 <placement_30_13>
+0
+0 <placement_30_14>
+0
+0 <placement_30_15>
+0
+0 <placement_30_16>
+0
+0 <placement_30_17>
+0
+0 <placement_30_18>
+0
+0 <placement_30_19>
+0
+0 <sprite_31_0>
+0 <sprite_31_1>
+0 <sprite_31_2>
+0 <sprite_31_3>
+0 <sprite_31_4>
+0 <sprite_31_5>
+0 <sprite_31_6>
+0 <sprite_31_7>
+0 <sprite_31_8>
+0 <sprite_31_9>
+0 <placement_31_0>
+0
+0 <placement_31_1>
+0
+0 <placement_31_2>
+0
+0 <placement_31_3>
+0
+0 <placement_31_4>
+0
+0 <placement_31_5>
+0
+0 <placement_31_6>
+0
+0 <placement_31_7>
+0
+0 <placement_31_8>
+0
+0 <placement_31_9>
+0
+0 <placement_31_10>
+0
+0 <placement_31_11>
+0
+0 <placement_31_12>
+0
+0 <placement_31_13>
+0
+0 <placement_31_14>
+0
+0 <placement_31_15>
+0
+0 <placement_31_16>
+0
+0 <placement_31_17>
+0
+0 <placement_31_18>
+0
+0 <placement_31_19>
+0
+0 <sprite_32_0>
+0 <sprite_32_1>
+0 <sprite_32_2>
+0 <sprite_32_3>
+0 <sprite_32_4>
+0 <sprite_32_5>
+0 <sprite_32_6>
+0 <sprite_32_7>
+0 <sprite_32_8>
+0 <sprite_32_9>
+0 <placement_32_0>
+0
+0 <placement_32_1>
+0
+0 <placement_32_2>
+0
+0 <placement_32_3>
+0
+0 <placement_32_4>
+0
+0 <placement_32_5>
+0
+0 <placement_32_6>
+0
+0 <placement_32_7>
+0
+0 <placement_32_8>
+0
+0 <placement_32_9>
+0
+0 <placement_32_10>
+0
+0 <placement_32_11>
+0
+0 <placement_32_12>
+0
+0 <placement_32_13>
+0
+0 <placement_32_14>
+0
+0 <placement_32_15>
+0
+0 <placement_32_16>
+0
+0 <placement_32_17>
+0
+0 <placement_32_18>
+0
+0 <placement_32_19>
+0
+0 <sprite_33_0>
+0 <sprite_33_1>
+0 <sprite_33_2>
+0 <sprite_33_3>
+0 <sprite_33_4>
+0 <sprite_33_5>
+0 <sprite_33_6>
+0 <sprite_33_7>
+0 <sprite_33_8>
+0 <sprite_33_9>
+0 <placement_33_0>
+0
+0 <placement_33_1>
+0
+0 <placement_33_2>
+0
+0 <placement_33_3>
+0
+0 <placement_33_4>
+0
+0 <placement_33_5>
+0
+0 <placement_33_6>
+0
+0 <placement_33_7>
+0
+0 <placement_33_8>
+0
+0 <placement_33_9>
+0
+0 <placement_33_10>
+0
+0 <placement_33_11>
+0
+0 <placement_33_12>
+0
+0 <placement_33_13>
+0
+0 <placement_33_14>
+0
+0 <placement_33_15>
+0
+0 <placement_33_16>
+0
+0 <placement_33_17>
+0
+0 <placement_33_18>
+0
+0 <placement_33_19>
+0
+0 <sprite_34_0>
+0 <sprite_34_1>
+0 <sprite_34_2>
+0 <sprite_34_3>
+0 <sprite_34_4>
+0 <sprite_34_5>
+0 <sprite_34_6>
+0 <sprite_34_7>
+0 <sprite_34_8>
+0 <sprite_34_9>
+0 <placement_34_0>
+0
+0 <placement_34_1>
+0
+0 <placement_34_2>
+0
+0 <placement_34_3>
+0
+0 <placement_34_4>
+0
+0 <placement_34_5>
+0
+0 <placement_34_6>
+0
+0 <placement_34_7>
+0
+0 <placement_34_8>
+0
+0 <placement_34_9>
+0
+0 <placement_34_10>
+0
+0 <placement_34_11>
+0
+0 <placement_34_12>
+0
+0 <placement_34_13>
+0
+0 <placement_34_14>
+0
+0 <placement_34_15>
+0
+0 <placement_34_16>
+0
+0 <placement_34_17>
+0
+0 <placement_34_18>
+0
+0 <placement_34_19>
+0
+0 <sprite_35_0>
+0 <sprite_35_1>
+0 <sprite_35_2>
+0 <sprite_35_3>
+0 <sprite_35_4>
+0 <sprite_35_5>
+0 <sprite_35_6>
+0 <sprite_35_7>
+0 <sprite_35_8>
+0 <sprite_35_9>
+0 <placement_35_0>
+0
+0 <placement_35_1>
+0
+0 <placement_35_2>
+0
+0 <placement_35_3>
+0
+0 <placement_35_4>
+0
+0 <placement_35_5>
+0
+0 <placement_35_6>
+0
+0 <placement_35_7>
+0
+0 <placement_35_8>
+0
+0 <placement_35_9>
+0
+0 <placement_35_10>
+0
+0 <placement_35_11>
+0
+0 <placement_35_12>
+0
+0 <placement_35_13>
+0
+0 <placement_35_14>
+0
+0 <placement_35_15>
+0
+0 <placement_35_16>
+0
+0 <placement_35_17>
+0
+0 <placement_35_18>
+0
+0 <placement_35_19>
+0
+0 <sprite_36_0>
+0 <sprite_36_1>
+0 <sprite_36_2>
+0 <sprite_36_3>
+0 <sprite_36_4>
+0 <sprite_36_5>
+0 <sprite_36_6>
+0 <sprite_36_7>
+0 <sprite_36_8>
+0 <sprite_36_9>
+0 <placement_36_0>
+0
+0 <placement_36_1>
+0
+0 <placement_36_2>
+0
+0 <placement_36_3>
+0
+0 <placement_36_4>
+0
+0 <placement_36_5>
+0
+0 <placement_36_6>
+0
+0 <placement_36_7>
+0
+0 <placement_36_8>
+0
+0 <placement_36_9>
+0
+0 <placement_36_10>
+0
+0 <placement_36_11>
+0
+0 <placement_36_12>
+0
+0 <placement_36_13>
+0
+0 <placement_36_14>
+0
+0 <placement_36_15>
+0
+0 <placement_36_16>
+0
+0 <placement_36_17>
+0
+0 <placement_36_18>
+0
+0 <placement_36_19>
+0
+0 <sprite_37_0>
+0 <sprite_37_1>
+0 <sprite_37_2>
+0 <sprite_37_3>
+0 <sprite_37_4>
+0 <sprite_37_5>
+0 <sprite_37_6>
+0 <sprite_37_7>
+0 <sprite_37_8>
+0 <sprite_37_9>
+0 <placement_37_0>
+0
+0 <placement_37_1>
+0
+0 <placement_37_2>
+0
+0 <placement_37_3>
+0
+0 <placement_37_4>
+0
+0 <placement_37_5>
+0
+0 <placement_37_6>
+0
+0 <placement_37_7>
+0
+0 <placement_37_8>
+0
+0 <placement_37_9>
+0
+0 <placement_37_10>
+0
+0 <placement_37_11>
+0
+0 <placement_37_12>
+0
+0 <placement_37_13>
+0
+0 <placement_37_14>
+0
+0 <placement_37_15>
+0
+0 <placement_37_16>
+0
+0 <placement_37_17>
+0
+0 <placement_37_18>
+0
+0 <placement_37_19>
+0
+0 <sprite_38_0>
+0 <sprite_38_1>
+0 <sprite_38_2>
+0 <sprite_38_3>
+0 <sprite_38_4>
+0 <sprite_38_5>
+0 <sprite_38_6>
+0 <sprite_38_7>
+0 <sprite_38_8>
+0 <sprite_38_9>
+0 <placement_38_0>
+0
+0 <placement_38_1>
+0
+0 <placement_38_2>
+0
+0 <placement_38_3>
+0
+0 <placement_38_4>
+0
+0 <placement_38_5>
+0
+0 <placement_38_6>
+0
+0 <placement_38_7>
+0
+0 <placement_38_8>
+0
+0 <placement_38_9>
+0
+0 <placement_38_10>
+0
+0 <placement_38_11>
+0
+0 <placement_38_12>
+0
+0 <placement_38_13>
+0
+0 <placement_38_14>
+0
+0 <placement_38_15>
+0
+0 <placement_38_16>
+0
+0 <placement_38_17>
+0
+0 <placement_38_18>
+0
+0 <placement_38_19>
+0
+0 <sprite_39_0>
+0 <sprite_39_1>
+0 <sprite_39_2>
+0 <sprite_39_3>
+0 <sprite_39_4>
+0 <sprite_39_5>
+0 <sprite_39_6>
+0 <sprite_39_7>
+0 <sprite_39_8>
+0 <sprite_39_9>
+0 <placement_39_0>
+0
+0 <placement_39_1>
+0
+0 <placement_39_2>
+0
+0 <placement_39_3>
+0
+0 <placement_39_4>
+0
+0 <placement_39_5>
+0
+0 <placement_39_6>
+0
+0 <placement_39_7>
+0
+0 <placement_39_8>
+0
+0 <placement_39_9>
+0
+0 <placement_39_10>
+0
+0 <placement_39_11>
+0
+0 <placement_39_12>
+0
+0 <placement_39_13>
+0
+0 <placement_39_14>
+0
+0 <placement_39_15>
+0
+0 <placement_39_16>
+0
+0 <placement_39_17>
+0
+0 <placement_39_18>
+0
+0 <placement_39_19>
+0
+0 <sprite_40_0>
+0 <sprite_40_1>
+0 <sprite_40_2>
+0 <sprite_40_3>
+0 <sprite_40_4>
+0 <sprite_40_5>
+0 <sprite_40_6>
+0 <sprite_40_7>
+0 <sprite_40_8>
+0 <sprite_40_9>
+0 <placement_40_0>
+0
+0 <placement_40_1>
+0
+0 <placement_40_2>
+0
+0 <placement_40_3>
+0
+0 <placement_40_4>
+0
+0 <placement_40_5>
+0
+0 <placement_40_6>
+0
+0 <placement_40_7>
+0
+0 <placement_40_8>
+0
+0 <placement_40_9>
+0
+0 <placement_40_10>
+0
+0 <placement_40_11>
+0
+0 <placement_40_12>
+0
+0 <placement_40_13>
+0
+0 <placement_40_14>
+0
+0 <placement_40_15>
+0
+0 <placement_40_16>
+0
+0 <placement_40_17>
+0
+0 <placement_40_18>
+0
+0 <placement_40_19>
+0
+0 <sprite_41_0>
+0 <sprite_41_1>
+0 <sprite_41_2>
+0 <sprite_41_3>
+0 <sprite_41_4>
+0 <sprite_41_5>
+0 <sprite_41_6>
+0 <sprite_41_7>
+0 <sprite_41_8>
+0 <sprite_41_9>
+0 <placement_41_0>
+0
+0 <placement_41_1>
+0
+0 <placement_41_2>
+0
+0 <placement_41_3>
+0
+0 <placement_41_4>
+0
+0 <placement_41_5>
+0
+0 <placement_41_6>
+0
+0 <placement_41_7>
+0
+0 <placement_41_8>
+0
+0 <placement_41_9>
+0
+0 <placement_41_10>
+0
+0 <placement_41_11>
+0
+0 <placement_41_12>
+0
+0 <placement_41_13>
+0
+0 <placement_41_14>
+0
+0 <placement_41_15>
+0
+0 <placement_41_16>
+0
+0 <placement_41_17>
+0
+0 <placement_41_18>
+0
+0 <placement_41_19>
+0
+0 <sprite_42_0>
+0 <sprite_42_1>
+0 <sprite_42_2>
+0 <sprite_42_3>
+0 <sprite_42_4>
+0 <sprite_42_5>
+0 <sprite_42_6>
+0 <sprite_42_7>
+0 <sprite_42_8>
+0 <sprite_42_9>
+0 <placement_42_0>
+0
+0 <placement_42_1>
+0
+0 <placement_42_2>
+0
+0 <placement_42_3>
+0
+0 <placement_42_4>
+0
+0 <placement_42_5>
+0
+0 <placement_42_6>
+0
+0 <placement_42_7>
+0
+0 <placement_42_8>
+0
+0 <placement_42_9>
+0
+0 <placement_42_10>
+0
+0 <placement_42_11>
+0
+0 <placement_42_12>
+0
+0 <placement_42_13>
+0
+0 <placement_42_14>
+0
+0 <placement_42_15>
+0
+0 <placement_42_16>
+0
+0 <placement_42_17>
+0
+0 <placement_42_18>
+0
+0 <placement_42_19>
+0
+0 <sprite_43_0>
+0 <sprite_43_1>
+0 <sprite_43_2>
+0 <sprite_43_3>
+0 <sprite_43_4>
+0 <sprite_43_5>
+0 <sprite_43_6>
+0 <sprite_43_7>
+0 <sprite_43_8>
+0 <sprite_43_9>
+0 <placement_43_0>
+0
+0 <placement_43_1>
+0
+0 <placement_43_2>
+0
+0 <placement_43_3>
+0
+0 <placement_43_4>
+0
+0 <placement_43_5>
+0
+0 <placement_43_6>
+0
+0 <placement_43_7>
+0
+0 <placement_43_8>
+0
+0 <placement_43_9>
+0
+0 <placement_43_10>
+0
+0 <placement_43_11>
+0
+0 <placement_43_12>
+0
+0 <placement_43_13>
+0
+0 <placement_43_14>
+0
+0 <placement_43_15>
+0
+0 <placement_43_16>
+0
+0 <placement_43_17>
+0
+0 <placement_43_18>
+0
+0 <placement_43_19>
+0
+0 <sprite_44_0>
+0 <sprite_44_1>
+0 <sprite_44_2>
+0 <sprite_44_3>
+0 <sprite_44_4>
+0 <sprite_44_5>
+0 <sprite_44_6>
+0 <sprite_44_7>
+0 <sprite_44_8>
+0 <sprite_44_9>
+0 <placement_44_0>
+0
+0 <placement_44_1>
+0
+0 <placement_44_2>
+0
+0 <placement_44_3>
+0
+0 <placement_44_4>
+0
+0 <placement_44_5>
+0
+0 <placement_44_6>
+0
+0 <placement_44_7>
+0
+0 <placement_44_8>
+0
+0 <placement_44_9>
+0
+0 <placement_44_10>
+0
+0 <placement_44_11>
+0
+0 <placement_44_12>
+0
+0 <placement_44_13>
+0
+0 <placement_44_14>
+0
+0 <placement_44_15>
+0
+0 <placement_44_16>
+0
+0 <placement_44_17>
+0
+0 <placement_44_18>
+0
+0 <placement_44_19>
+0
+0 <sprite_45_0>
+0 <sprite_45_1>
+0 <sprite_45_2>
+0 <sprite_45_3>
+0 <sprite_45_4>
+0 <sprite_45_5>
+0 <sprite_45_6>
+0 <sprite_45_7>
+0 <sprite_45_8>
+0 <sprite_45_9>
+0 <placement_45_0>
+0
+0 <placement_45_1>
+0
+0 <placement_45_2>
+0
+0 <placement_45_3>
+0
+0 <placement_45_4>
+0
+0 <placement_45_5>
+0
+0 <placement_45_6>
+0
+0 <placement_45_7>
+0
+0 <placement_45_8>
+0
+0 <placement_45_9>
+0
+0 <placement_45_10>
+0
+0 <placement_45_11>
+0
+0 <placement_45_12>
+0
+0 <placement_45_13>
+0
+0 <placement_45_14>
+0
+0 <placement_45_15>
+0
+0 <placement_45_16>
+0
+0 <placement_45_17>
+0
+0 <placement_45_18>
+0
+0 <placement_45_19>
+0
+0 <sprite_46_0>
+0 <sprite_46_1>
+0 <sprite_46_2>
+0 <sprite_46_3>
+0 <sprite_46_4>
+0 <sprite_46_5>
+0 <sprite_46_6>
+0 <sprite_46_7>
+0 <sprite_46_8>
+0 <sprite_46_9>
+0 <placement_46_0>
+0
+0 <placement_46_1>
+0
+0 <placement_46_2>
+0
+0 <placement_46_3>
+0
+0 <placement_46_4>
+0
+0 <placement_46_5>
+0
+0 <placement_46_6>
+0
+0 <placement_46_7>
+0
+0 <placement_46_8>
+0
+0 <placement_46_9>
+0
+0 <placement_46_10>
+0
+0 <placement_46_11>
+0
+0 <placement_46_12>
+0
+0 <placement_46_13>
+0
+0 <placement_46_14>
+0
+0 <placement_46_15>
+0
+0 <placement_46_16>
+0
+0 <placement_46_17>
+0
+0 <placement_46_18>
+0
+0 <placement_46_19>
+0
+0 <sprite_47_0>
+0 <sprite_47_1>
+0 <sprite_47_2>
+0 <sprite_47_3>
+0 <sprite_47_4>
+0 <sprite_47_5>
+0 <sprite_47_6>
+0 <sprite_47_7>
+0 <sprite_47_8>
+0 <sprite_47_9>
+0 <placement_47_0>
+0
+0 <placement_47_1>
+0
+0 <placement_47_2>
+0
+0 <placement_47_3>
+0
+0 <placement_47_4>
+0
+0 <placement_47_5>
+0
+0 <placement_47_6>
+0
+0 <placement_47_7>
+0
+0 <placement_47_8>
+0
+0 <placement_47_9>
+0
+0 <placement_47_10>
+0
+0 <placement_47_11>
+0
+0 <placement_47_12>
+0
+0 <placement_47_13>
+0
+0 <placement_47_14>
+0
+0 <placement_47_15>
+0
+0 <placement_47_16>
+0
+0 <placement_47_17>
+0
+0 <placement_47_18>
+0
+0 <placement_47_19>
+0
+0 <sprite_48_0>
+0 <sprite_48_1>
+0 <sprite_48_2>
+0 <sprite_48_3>
+0 <sprite_48_4>
+0 <sprite_48_5>
+0 <sprite_48_6>
+0 <sprite_48_7>
+0 <sprite_48_8>
+0 <sprite_48_9>
+0 <placement_48_0>
+0
+0 <placement_48_1>
+0
+0 <placement_48_2>
+0
+0 <placement_48_3>
+0
+0 <placement_48_4>
+0
+0 <placement_48_5>
+0
+0 <placement_48_6>
+0
+0 <placement_48_7>
+0
+0 <placement_48_8>
+0
+0 <placement_48_9>
+0
+0 <placement_48_10>
+0
+0 <placement_48_11>
+0
+0 <placement_48_12>
+0
+0 <placement_48_13>
+0
+0 <placement_48_14>
+0
+0 <placement_48_15>
+0
+0 <placement_48_16>
+0
+0 <placement_48_17>
+0
+0 <placement_48_18>
+0
+0 <placement_48_19>
+0
+0 <sprite_49_0>
+0 <sprite_49_1>
+0 <sprite_49_2>
+0 <sprite_49_3>
+0 <sprite_49_4>
+0 <sprite_49_5>
+0 <sprite_49_6>
+0 <sprite_49_7>
+0 <sprite_49_8>
+0 <sprite_49_9>
+0 <placement_49_0>
+0
+0 <placement_49_1>
+0
+0 <placement_49_2>
+0
+0 <placement_49_3>
+0
+0 <placement_49_4>
+0
+0 <placement_49_5>
+0
+0 <placement_49_6>
+0
+0 <placement_49_7>
+0
+0 <placement_49_8>
+0
+0 <placement_49_9>
+0
+0 <placement_49_10>
+0
+0 <placement_49_11>
+0
+0 <placement_49_12>
+0
+0 <placement_49_13>
+0
+0 <placement_49_14>
+0
+0 <placement_49_15>
+0
+0 <placement_49_16>
+0
+0 <placement_49_17>
+0
+0 <placement_49_18>
+0
+0 <placement_49_19>
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0 0
